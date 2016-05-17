@@ -1,3 +1,4 @@
+package it.unibs.ing.fp.interfaces;
 
 public class mainClass {
 

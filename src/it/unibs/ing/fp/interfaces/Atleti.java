@@ -1,3 +1,5 @@
+package it.unibs.ing.fp.interfaces;
+
 public class Atleti implements Ordinabile {
     
 	int pettorale=0;

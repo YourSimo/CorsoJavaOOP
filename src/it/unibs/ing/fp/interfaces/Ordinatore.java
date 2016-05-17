@@ -1,3 +1,5 @@
+package it.unibs.ing.fp.interfaces;
+
 public class Ordinatore {
   Ordinabile[] v=null;
   
