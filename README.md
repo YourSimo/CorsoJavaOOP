@@ -1,2 +1,2 @@
 # CorsoJavaOOP
-Examples and tests of java projects
+Examples and Tests of Java Projects
