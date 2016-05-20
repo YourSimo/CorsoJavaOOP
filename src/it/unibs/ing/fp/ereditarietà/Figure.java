@@ -1,3 +1,5 @@
+package it.unibs.ing.fp.ereditarietà;
+
 import java.awt.Color;
 
 enum tipiTratto {fine, medio, normale, forte};

@@ -1,3 +1,4 @@
+package it.unibs.ing.fp.ereditarietà;
 
  public class Rettangolo extends Figure {
   private Punto AngoloUpSx=null;

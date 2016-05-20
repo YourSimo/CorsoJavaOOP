@@ -1,7 +1,9 @@
-import java.awt.List;
+package it.unibs.ing.fp.ereditarietà;
+
+// import java.awt.List;
 import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Random;
+// import java.util.LinkedList;
+// import java.util.Random;
 
 public class mainProgram {
 

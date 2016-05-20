@@ -1,3 +1,4 @@
+package it.unibs.ing.fp.ereditarietà;
 
 public class Cerchio extends Figure {
 	int xCentro=0, yCentro=0;

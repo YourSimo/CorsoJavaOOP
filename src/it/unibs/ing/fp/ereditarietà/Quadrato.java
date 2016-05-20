@@ -1,3 +1,4 @@
+package it.unibs.ing.fp.ereditarietà;
 
 public class Quadrato extends Rettangolo {
 	

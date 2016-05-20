@@ -1,4 +1,6 @@
-//il segmento � in relazione COMPOSED OF con la classe punto
+package it.unibs.ing.fp.ereditarietà;
+
+//il segmento è in relazione COMPOSED OF con la classe punto
 public class Segmento {
 	
 	private Punto p1 = null;
