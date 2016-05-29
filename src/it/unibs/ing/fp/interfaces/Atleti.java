@@ -15,15 +15,12 @@ public class Atleti implements Ordinabile {
 			return false;
 		else
 		{
-			double indicePrestazioneQuestoAtleta = 
-				prestazione - coefficienteEta*eta;
+			double indicePrestazioneQuestoAtleta = prestazione - coefficienteEta*eta;
 		
-		    double indicePrestazioneAltro = 
-				((Atleti)altroAtleta).prestazione - 
+		    double indicePrestazioneAltro = ((Atleti)altroAtleta).prestazione - 
 				  coefficienteEta*((Atleti)altroAtleta).eta;
 		
-		    return indicePrestazioneQuestoAtleta <
-			   indicePrestazioneAltro; 	
+		    return indicePrestazioneQuestoAtleta < indicePrestazioneAltro; 	
 		}
 	}
 
