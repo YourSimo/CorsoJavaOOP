@@ -1,6 +1,6 @@
 package it.unibs.ing.fp.quiz;
 
-public class Quiz1 {
+public class QuizToString {
 	
 
 	public static void main(String[] args) {
