@@ -10,8 +10,8 @@ public class QuizInstanceOf {
 		String s = r.toString();
 		String t = new String();
 		t = r.toString();
-		if (s instanceof Rettangolo) System.out.println(s);
-		if(t instanceof Rettangolo);
+		//	if (s instanceof Rettangolo) System.out.println(s);	errore
+		//	if(t instanceof Rettangolo); errore
 	}
 
 }
