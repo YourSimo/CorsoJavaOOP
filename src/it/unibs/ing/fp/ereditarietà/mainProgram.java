@@ -9,6 +9,10 @@ public class mainProgram {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		Rettangolo r = new Rettangolo(0, 0, 5, 7);
+		String s = r.toString();
+		if (s instanceof Rettangolo);
 	
      /* Figure f = new Quadrato(10,40,100);
     
